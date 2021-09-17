@@ -1,2 +1,2 @@
 # contagem_regressiva
-Contagem Regressiva
+Aplicação que faz uma contagem regressiva
